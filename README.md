@@ -16,7 +16,6 @@ tests/
   test_hash.py
   test_heap.py
 
-requirements.txt
 README.md
 ```
 
