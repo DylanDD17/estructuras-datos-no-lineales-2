@@ -1,5 +1,33 @@
 # Parcial - Estructuras de Datos No Lineales
 
+# Abstract
+
+En este trabajo se desarrolla la implementación y el análisis de distintas estructuras de datos no lineales cuyo objetivo es la adecuada y óptima organización, localización y gestión de la información en sistemas computacionales a lo largo del curso. En este marco del parcial se implementan árboles N-arios, estructuras Trie, tablas hash y colas de prioridad mediante heaps, cada una de las cuales es adecuada para llegar a resolver un tipo y problema concreto relacionado con el almacenamiento y el procesamiento de los datos. Los árboles N-arios permiten representar estructuras jerárquicas con multiplicidad de hijos por nodo de forma que resulta idónea para poder modelar un conjunto de sistemas organizados como, entre otros, directorios o clasificaciones. Las estructuras Trie permiten optimizar la búsqueda de cadenas y prefijos siendo ideales para sistemas de autocompletado y motores de búsqueda. Las tablas hash implementan un acceso rápido a los datos mediante el uso de funciones hash siendo sus operaciones de inserción y búsqueda de complejidad promedio constante. Por último, los heaps permiten gestionar prioridades dentro de un conjunto de elementos siendo base de distintos algoritmos de planificación y de procesamiento de tareas. En definitiva, estas estructuras no dejan de demostrar cómo diferentes formas de organizar datos pueden ser integradas dentro de un mismo sistema y al mismo tiempo mejorar la eficiencia computacional, lo cual pone de manifiesto la importancia de éstas en aplicaciones reales como los sistemas de información, las redes o las plataformas de inteligencia artificial.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Estructura del proyecto
 
